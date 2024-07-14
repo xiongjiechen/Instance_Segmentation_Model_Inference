@@ -62,6 +62,8 @@ cp inference_scripts/coco_instance_dental.py ./mmdet/.mim/configs/_base_/dataset
 cp inference_scripts/mask-rcnn_convnext-v2-b_fpn_lsj-3x-fcmae_coco_dental.py ./projects/ConvNeXt-V2/configs/
 ```
 
+## Inference
+
 Run the following command to perform model inference:
 ```
 python demo/image_demo.py inference_scripts/demo_images projects/ConvNeXt-V2/configs/mask-rcnn_convnext-v2-b_fpn_lsj-3x-fcmae_coco_dental.py --weights inference_scripts/epoch_5.pth --device cpu --out-dir convnext_v2_demo_outputs
