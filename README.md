@@ -49,7 +49,7 @@ The official installation guide for mmdetection can be found here: https://mmdet
 
 Download inference scripts and model checkpoints via this link: https://drive.google.com/file/d/1pT3IERj6S7Y77R7oPeWSAO0NiLVINEyo/view?usp=sharing
 
-Save the .zip file to the mmdetection working directory and unzip it:
+Move the .zip file to the mmdetection working directory and unzip it:
 
 ```
 unzip inference_scripts.zip
