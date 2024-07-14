@@ -1,4 +1,4 @@
-# segmentation_guide
+# Instance_Segmentation_Model_Inference
 ## Install PyTorch and MMDetection
 Run the following command to create a conda environment for the installation of mmdetection:
 
