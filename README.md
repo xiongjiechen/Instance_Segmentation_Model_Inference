@@ -52,6 +52,9 @@ Download inference scripts and model checkpoints via this link: https://drive.go
 Move the .zip file to the mmdetection working directory and unzip it:
 
 ```
+mkdir inference_scripts
+mv inference_scripts.zip ./inference_scripts
+cd inference_scripts/
 unzip inference_scripts.zip
 ```
 
