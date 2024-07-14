@@ -56,6 +56,7 @@ mkdir inference_scripts
 mv inference_scripts.zip ./inference_scripts
 cd inference_scripts/
 unzip inference_scripts.zip
+cd ..
 ```
 
 Move scripts to proper locations:
