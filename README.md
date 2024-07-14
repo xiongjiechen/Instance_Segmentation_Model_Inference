@@ -68,7 +68,7 @@ cp inference_scripts/mask-rcnn_convnext-v2-b_fpn_lsj-3x-fcmae_coco_dental.py ./p
 
 Run the following command to perform model inference:
 ```
-python demo/image_demo.py inference_scripts/demo_images projects/ConvNeXt-V2/configs/mask-rcnn_convnext-v2-b_fpn_lsj-3x-fcmae_coco_dental.py --weights inference_scripts/epoch_5.pth --device cpu --out-dir convnext_v2_demo_outputs
+python demo/image_demo.py inference_scripts/demo_images projects/ConvNeXt-V2/configs/mask-rcnn_convnext-v2-b_fpn_lsj-3x-fcmae_coco_dental.py --weights inference_scripts/epoch_20.pth --device cpu --out-dir convnext_v2_demo_outputs
 ```
 
 **inference_scripts/demo_images** is the path to test images. Inference results will be saved at the folder **./convnext_v2_demo_outputs**.
