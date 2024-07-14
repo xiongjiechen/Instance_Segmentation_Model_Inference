@@ -9,7 +9,7 @@ conda activate openmmlab
 
 Then install pytorch, mmengine, and mmcv.
 
-On GPU platforms, the following version works:
+On GPU platforms:
 ```
 conda install pytorch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 pytorch-cuda=12.1 -c pytorch -c nvidia
 pip install -U openmim
