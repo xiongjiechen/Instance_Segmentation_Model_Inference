@@ -47,7 +47,7 @@ The official installation guide for mmdetection can be found here: https://mmdet
 
 ## Load instance segmentation model
 
-Download inference scripts and model checkpoints via this link: https://drive.google.com/file/d/1pT3IERj6S7Y77R7oPeWSAO0NiLVINEyo/view?usp=sharing
+Download inference scripts and model checkpoints via this link: [https://drive.google.com/file/d/1pT3IERj6S7Y77R7oPeWSAO0NiLVINEyo/view?usp=sharing](https://drive.google.com/file/d/1rUDoT2KrE9cWsAOy9psaoAZT3V1JGlXs/view?usp=sharing)
 
 Move the .zip file to the mmdetection working directory and unzip it:
 
